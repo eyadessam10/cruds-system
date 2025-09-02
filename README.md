@@ -1,3 +1,3 @@
-#Git_Course
+#cruds-project
 CRUDS project 
 ## project Notes
